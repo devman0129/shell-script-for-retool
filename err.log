@@ -1,0 +1,21 @@
+{  
+  "level": "info",  
+  "message": {  
+    "cpuUsagePercentForProcess": "0.00",  
+    "isRequestHandlerProcess": false,  
+    "memoryStatsForContainer": {  
+      "freeSystemMemoryMb": 7402.872832,  
+      "percentageFreeMemory": 44.32,  
+      "totalSystemMemoryMb": 16703.05792  
+    },  
+    "memoryStatsForProcess": {  
+      "heapTotalMb": 251.604992,  
+      "heapUsedMb": 241.373664,  
+      "percentageHeapUsed": 95.93,  
+      "rssMb": 564.502528  
+    },  
+    "namespace": "memoryUsage",  
+    "pid": 24  
+  },  
+  "timestamp": "2024-09-14T06:03:27.233Z"  
+}
